@@ -3,7 +3,8 @@ import React from 'react';
 import './App.css';
 
 import { Route, Switch, BrowserRouter as Router } from 'react-router-dom';
-import Home from './Home';
+import Booking from './Booking';
+// import Home from './Home';
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
         <div>
           {/*This is the function to Route to Page (via switch)*/}
           <Switch>
-            <Route exact path="/" component={Home} />
+            <Route exact path="/" component={Booking} />
+            {/* <Route exact path="/booking" component={Booking} /> */}
             {/* <Route exact path="/hook" component={Formregisterhook} /> */}
           </Switch>
         </div>
