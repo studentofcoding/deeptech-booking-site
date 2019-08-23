@@ -21,8 +21,8 @@ function Booking() {
 
       <div style={semanticStyle}>
         <Container text style={{margin:"1em"}} textAlign='left'>
-          <h2>Jadwal Pemakaian Tempat DeepSpace : Agustus 2019</h2>
-          <Iframe url="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FJakarta&amp;src=MW1wdnUxbzZnOWcxcGplZHZkZDNpbzNycGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=dXI2M2huNGJwYjcyam03dWloZ2pzZnZ2Nm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=cjRzanI1OWpncjc3NmZnZHRubWRiMGhqMjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=aWQuaW5kb25lc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23C0CA33&amp;color=%23E67C73&amp;color=%23D81B60&amp;color=%230B8043&amp;showTitle=0&amp;showTabs=0&amp;showNav=1&amp;showDate=0&amp;showPrint=0&amp;showCalendars=1"
+          <h2>Jadwal Pemakaian Tempat DeepSpace</h2>
+          <Iframe url="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FJakarta&amp;src=cGNwNjgzMzlvY3FvbnM5NGg0Ympwc2JzY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=MW1wdnUxbzZnOWcxcGplZHZkZDNpbzNycGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=dXI2M2huNGJwYjcyam03dWloZ2pzZnZ2Nm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=cjRzanI1OWpncjc3NmZnZHRubWRiMGhqMjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=aWQuaW5kb25lc2lhbiNob2xpZGF5QGdyb3VwLnYuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23AD1457&amp;color=%23C0CA33&amp;color=%23E67C73&amp;color=%23D81B60&amp;color=%230B8043&amp;showTz=1&amp;showCalendars=1&amp;showPrint=0&amp;showDate=1&amp;showNav=1&amp;showTitle=0"
             width="100%"
             height="600px"
             id="myId"
