@@ -36,10 +36,10 @@ function Booking() {
             Jam Operasional DeepSpace
             <ul>
               <li>
-                Weekday   : 09.00 - 20.00
+                Weekday   : 08.00 - 20.00
               </li>
               <li>
-                Weekend   : 12.00 - 20.00
+                Weekend   : 08.00 - 17.00
               </li>
             </ul>
           </p>
